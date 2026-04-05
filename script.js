@@ -6,5 +6,6 @@ function daysOfAYear(year){
 	}
 	return isleap ? 366: 365;
 }
-// let year = prompt("enter year");
-// alert(daysOfAYear(year));
+let year = prompt("enter year");
+alert(daysOfAYear(year));
+ 
